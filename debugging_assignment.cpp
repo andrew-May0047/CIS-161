@@ -6,7 +6,7 @@ void Method1();
 void Method2();
 void Method3();
 
-int main ()
+int main()
 {    
     string Pause;
     const int SIZE = 6;
